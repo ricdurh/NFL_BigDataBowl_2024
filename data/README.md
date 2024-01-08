@@ -1,6 +1,6 @@
 
 
-Download following csv's from ([here](https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/data))
+Download following csv's from [here](https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/data)
 
 - games.csv
 - players.csv
