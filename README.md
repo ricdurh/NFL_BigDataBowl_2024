@@ -1,4 +1,4 @@
-# bdb_2024
+# NFL Big Data Bowl 2024
 
 This repository is my code and analysis for the [NFL's 2024 Big Data Bowl](https://www.kaggle.com/competitions/nfl-big-data-bowl-2024/overview) on Tackling. My submission can be found [here](https://www.kaggle.com/code/ricdur/defensive-tackling-contribution-dtc/). Overall, my objective is to create a metric called Defensive Tackling Contribution (DTC) that attempts to assign credit to the defenders who contributed to a tackle on the play.
 
